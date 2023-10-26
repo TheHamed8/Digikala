@@ -1,6 +1,4 @@
-# Digikala
-this is Digikala Application with jetpack compose
-Screen Shots:
+ScreenShots:
 <img width="325" alt="l2" src="https://github.com/TheHamed8/Digikala/assets/96427408/1d540059-eec2-430b-9fbc-e39201a09c9f">
 <img width="334" alt="l1" src="https://github.com/TheHamed8/Digikala/assets/96427408/3a17c17e-66e5-428b-a5e8-8409806acaa6">
 <img width="324" alt="h5" src="https://github.com/TheHamed8/Digikala/assets/96427408/70ba465a-47f5-4fce-ae11-11cc5798f164">
